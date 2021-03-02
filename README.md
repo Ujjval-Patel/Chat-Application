@@ -1,6 +1,5 @@
 # Preview
-![Preview](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
+![Preview](https://github.com/Ujjval-Patel/Chat-Application/blob/master/output.gif)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
