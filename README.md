@@ -1,5 +1,5 @@
 # Preview
-![Preview](https://github.com/Ujjval-Patel/Chat-Application/blob/master/output.gif){:height="50%" width="50%"}
+<img src="https://github.com/Ujjval-Patel/Chat-Application/blob/master/output.gif" width="400" height="790">
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
