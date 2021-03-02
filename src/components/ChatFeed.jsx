@@ -53,7 +53,7 @@ const ChatFeed = (props) => {
                 <div className="message-from-container">
                     <MessageForm {... props}  chatId = {activeChat}/>
                 </div>
-            </div>
+            </div> 
         );
 }
 
