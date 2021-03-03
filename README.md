@@ -2,7 +2,8 @@
 Login 
 * username: alpha, pass: alpha
 * username: beta, pass: beta
-* 
+
+
 # Preview
 <img src="https://github.com/Ujjval-Patel/Chat-Application/blob/master/output.gif" width="790" height="400">
 
