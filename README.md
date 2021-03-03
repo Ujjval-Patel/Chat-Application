@@ -1,10 +1,3 @@
-# [Live](https://awesome-chat-application.netlify.app/)
-Login 
-* username: alpha, pass: alpha
-* username: beta, pass: beta
-# Preview
-<img src="https://github.com/Ujjval-Patel/Chat-Application/blob/master/output.gif" width="790" height="400">
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
