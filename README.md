@@ -5,7 +5,8 @@ Login
 
 
 # Preview
-<img src="https://github.com/Ujjval-Patel/Chat-Application/blob/master/output.gif" width="790" height="400">
+<img src="https://github.com/aayuvraj/covid19_help_chat_application/blob/fee8d5072397503e13eb45e0305dbd5f1a3ef7d3/live_demo.gif" width="790" height="400">
+
 
 # Getting Started with Create React App
 
